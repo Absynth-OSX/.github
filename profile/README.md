@@ -1,6 +1,6 @@
 # Absynth Advanced
 <div align="center">
-  <img src="https://www.native-instruments.com/fileadmin/ni_media/productfinder/Packshots2025/absynth6-Product-finder.png" width="300" height="auto;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/NI_Absynth_Logo.svg" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
